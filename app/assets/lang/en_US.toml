@@ -141,7 +141,7 @@ microsoftLogoutTitle = "Déconnexion de Microsoft"
 [js.login]
 login = "SE CONNECTER"
 loggingIn = "SE CONNECTER"
-success = "SUCCÈS
+success = "SUCCÈS"
 tryAgain = "Essayer à nouveau"
 
 [js.login.error]
@@ -179,8 +179,8 @@ installJavaManually = "Installer manuellement"
 javaDownloadPrepare = "Préparer le téléchargement de Java.."
 javaDownloadFailureTitle = "Erreur pendant le téléchargement Java"
 javaDownloadFailureText = "Voir la console (CTRL + Shift + i) pour plus de détails."
-javaRequired = "Java est requise<br>pour lancer"
-javaRequiredMessage = 'Une installation X64 valide de Java {major} est nécessaire pour lancer.<br><br>Veuillez vous référer à notre <a href="https://github.com/dscalzi/HeliosLauncher/wiki/Java-Management#manually-installing-a-valid-version-of-java">Guide de gestion Java</a> Pour des instructions sur la façon d'installer manuellement Java.'
+javaRequired = "Java est requise<br>lancer"
+javaRequiredMessage = 'Une installation X64 valide de Java {major} est nécessaire pour lancer.<br><br>Veuillez vous référer à notre <a href="https://github.com/dscalzi/HeliosLauncher/wiki/Java-Management#manually-installing-a-valid-version-of-java">Guide de gestion Java</a> for instructions on how to manually install Java.'
 javaRequiredDismiss = "Je comprends"
 javaRequiredCancel = "Retourner"
 
